@@ -64,6 +64,8 @@ int main(void){
                             printf("Digite um valor valido oh sua mula!\n\n");
                 }
             }while(escolhaValida == 0);
+
+            printf("Teste");
         }
     }
 }
