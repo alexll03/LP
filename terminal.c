@@ -66,6 +66,10 @@ int main(void){
             }while(escolhaValida == 0);
 
             printf("Teste");
+            scanf("%d");
+            for (int i=0; i<100; i++){
+                printf("DNADASDNAD");
+            }
         }
     }
 }
