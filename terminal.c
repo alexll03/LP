@@ -69,6 +69,11 @@ int main(void){
             scanf("%d");
             for (int i=0; i<100; i++){
                 printf("DNADASDNAD");
+
+
+                //asdad
+                //_ADDRESSOFsa
+              //  srandsd
             }
         }
     }
